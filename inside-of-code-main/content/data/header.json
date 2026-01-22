@@ -1,0 +1,62 @@
+{
+    "logo": {
+        "altText": "Logo dark",
+        "styles": {
+            "self": {
+                "margin": [
+                    "mr-3"
+                ]
+            }
+        },
+        "type": "ImageBlock"
+    },
+    "primaryLinks": [
+        {
+            "label": "Home",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": false
+        },
+        {
+            "label": "Sobre Nós",
+            "altText": "",
+            "url": "/sobre-nos",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Contato",
+            "altText": "",
+            "url": "/contato",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        }
+    ],
+    "secondaryLinks": [],
+    "variant": "logo-left-primary-nav-centered",
+    "colors": "bg-light-fg-dark",
+    "type": "Header",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-8",
+                "pl-8",
+                "pb-8",
+                "pr-8"
+            ],
+            "margin": [
+                "mt-0",
+                "ml-0",
+                "mb-0",
+                "mr-0"
+            ]
+        }
+    }
+}
